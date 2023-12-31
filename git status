@@ -1,0 +1,67 @@
+[33mcommit 8c16cd77a7a24077694d99a3b280e4d2cda62ea8[m
+Author: Ousmane <ouzaindiapazon@gmail.com>
+Date:   Sun Dec 31 17:40:43 2023 +0100
+
+    Version 2: Les conséquences de la guerre
+
+[1mdiff --git a/guerre.html b/guerre.html[m
+[1mindex e69de29..4cc05af 100644[m
+[1m--- a/guerre.html[m
+[1m+++ b/guerre.html[m
+[36m@@ -0,0 +1,56 @@[m
+[32m+[m[32m<!DOCTYPE html>[m
+[32m+[m[32m<html lang="fr">[m
+[32m+[m
+[32m+[m[32m<head>[m
+[32m+[m[32m    <meta charset="UTF-8">[m
+[32m+[m[32m    <meta name="viewport" content="width=device-width, initial-scale=1.0">[m
+[32m+[m[32m    <title>Résumé de la Seconde Guerre mondiale</title>[m
+[32m+[m[32m    <style>[m
+[32m+[m[32m        body {[m
+[32m+[m[32m            font-family: Arial, sans-serif;[m
+[32m+[m[32m            line-height: 1.6;[m
+[32m+[m[32m            margin: 20px;[m
+[32m+[m[32m        }[m
+[32m+[m
+[32m+[m[32m        header {[m
+[32m+[m[32m            text-align: center;[m
+[32m+[m[32m            background-color: #f2f2f2;[m
+[32m+[m[32m            padding: 10px;[m
+[32m+[m[32m        }[m
+[32m+[m
+[32m+[m[32m        section {[m
+[32m+[m[32m            max-width: 800px;[m
+[32m+[m[32m            margin: 20px auto;[m
+[32m+[m[32m        }[m
+[32m+[m[32m    </style>[m
+[32m+[m[32m</head>[m
+[32m+[m
+[32m+[m[32m<body>[m
+[32m+[m[32m    <header>[m
+[32m+[m[32m        <h1>Résumé de la Seconde Guerre mondiale</h1>[m
+[32m+[m[32m    </header>[m
+[32m+[m
+[32m+[m[32m    <section>[m
+[32m+[m[32m        <p>La Seconde Guerre mondiale (1939-1945) a été le conflit le plus vaste et dévastateur de l'histoire, impliquant la plupart des grandes puissances mondiales. Les principales parties prenantes étaient les Alliés, comprenant principalement les États-Unis, l'Union soviétique, le Royaume-Uni, la Chine et d'autres nations, contre les Puissances de l'Axe, dirigées par l'Allemagne nazie, l'Italie fasciste et le Japon impérial.</p>[m
+[32m+[m
+[32m+[m[32m        <p>Le conflit a commencé en Europe en 1939 lorsque l'Allemagne nazie, dirigée par Adolf Hitler, a envahi la Pologne. En réponse, le Royaume-Uni et la France ont déclaré la guerre à l'Allemagne. Par la suite, l'Allemagne a conquis une grande partie de l'Europe occidentale avant de se tourner vers l'Union soviétique en 1941. Pendant ce temps, le Japon a étendu son empire en Asie.</p>[m
+[32m+[m
+[32m+[m[41m        [m
+[32m+[m[41m        [m
+[32m+[m[32m        <!-- ... (Inclure le reste du texte) -->[m
+[32m+[m
+[32m+[m[32m        <p>La Seconde Guerre mondiale a laissé des millions de morts, des villes dévastées, et a eu des conséquences majeures sur la géopolitique mondiale, conduisant à la création de l'Organisation des Nations unies (ONU) et à la guerre froide entre les États-Unis et l'Union soviétique. Elle a également marqué la fin de l'ère impérialiste et a jeté les bases pour les développements politiques, économiques et sociaux qui ont suivi.</p>[m
+[32m+[m[32m        <h1>Les conséquences de la guerre</h1>[m
+[32m+[m
+[32m+[m[32m        <p>Les conséquences de la Seconde Guerre mondiale ont été profondes et durables, affectant presque tous les aspects de la vie mondiale. Sur le plan humain, le conflit a entraîné d'immenses pertes en vies humaines, avec des millions de soldats et de civils tués. Les survivants, tant militaires que civils, ont souvent été marqués physiquement et émotionnellement. Les atrocités de la guerre, y compris l'Holocauste et les bombardements massifs, ont laissé des cicatrices indélébiles dans la mémoire collective.</p>[m
+[32m+[m
+[32m+[m[32m        <p>Sur le plan économique, de vastes zones ont été dévastées, avec des infrastructures détruites et des économies en ruine. La reconstruction d'après-guerre a nécessité d'importants investissements et une coopération internationale sans précédent. L'émergence des États-Unis et de l'Union soviétique en tant que superpuissances a marqué le début de la guerre froide, une ère de tensions géopolitiques et idéologiques.</p>[m
+[32m+[m
+[32m+[m[32m        <p>Le paysage politique a également été redessiné, avec la création des Nations unies en 1945 dans l'espoir de prévenir de futurs conflits mondiaux. Les anciennes puissances coloniales ont été affaiblies, conduisant à des mouvements d'indépendance dans de nombreuses régions du monde. En outre, l'Europe a été divisée entre l'est et l'ouest, créant un clivage qui a perduré jusqu'à la fin de la guerre froide.</p>[m
+[32m+[m
+[32m+[m[32m        <p>Enfin, la Seconde Guerre mondiale a façonné le développement technologique et scientifique, avec des avancées telles que la bombe atomique qui ont eu des implications durables sur la sécurité mondiale. Dans l'ensemble, les conséquences de la guerre ont laissé un héritage complexe, stimulant à la fois la coopération internationale et les défis persistants qui continuent d'influencer notre monde contemporain.</p>[m
+[32m+[m[41m    [m
+[32m+[m[32m    </section>[m
+[32m+[m[32m</body>[m
+[32m+[m
+[32m+[m[32m</html>[m
